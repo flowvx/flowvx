@@ -1,19 +1,22 @@
 # Hello! I'm flow_vx
-I am passionate about **cybersecurity** and **artificial intelligence**. With a solid foundation in programming, I am eager to collaborate on projects that involve AI and social interaction software, including video games and social networks.
+Computer engineering student passionate about cybersecurity, aerospace, and critical systems.
+I develop projects related to offensive and defensive security, data analysis, and automation.
+Currently in training, I am building a solid portfolio to grow into cyber defense or embedded systems security.
+
+Interests: cybersecurity, defense, applied AI, cloud security, pentesting, embedded systems, OSINT.
+Goal: contribute to open-source projects and join a major player such as Thales, Airbus, Safran, or Orange Cyberdefense.
 
 ## Skills
 - **Programming Languages**:
   - Java
-  - JavaScript
-  - HTML
-  - CSS
-  - C
-  - C++
+  - Html/CSS/JavaScript
+  - C/c++
   - SQL
-  - MATLAB
+  - Reactjs
 - **Currently Learning**:
   - Python
   - PHP
+  - bash/powershell
   - Bash
   - Cryptography algorithms
 ## Interests
@@ -21,6 +24,7 @@ I have a keen interest in:
 - Cybersecurity practices and methodologies
 - Artificial intelligence development
 - Social interaction software design (video games, social networks)
+- AI apply to Cybersecurity
 
 ## Creative Side
 In addition to my technical skills, I am passionate about **poetry** and **writing**. I write chronicles on Wattpad under the same pseudonym, flow_vx.
